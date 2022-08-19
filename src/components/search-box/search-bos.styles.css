@@ -3,6 +3,7 @@
     height: fit-content;
     position: relative;
     margin: 0 auto;
+    margin-bottom: 30px;
 }
 .input-search{
     height: 50px;
